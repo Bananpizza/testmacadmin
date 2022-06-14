@@ -1,8 +1,8 @@
 ---
-title: KFM your OneDrive
+title: CIS Bench your environment - Part 1
 layout: post
 background: https://cdna.artstation.com/p/assets/images/images/008/555/002/large/antoine-collignon-bigger.jpg
-subtitle: Automate the sync, finally here
+subtitle: Strangle your environment!
 artist: artstation.com/antoinecollignon
 ---
 
