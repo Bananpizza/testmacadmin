@@ -65,7 +65,7 @@ So we need to add the following:
 
 <details>
 	<summary><b>Allow OneDrive disk access</b></summary>
-<code>``` <dict>
+<code>```XML <dict>
 			<key>PayloadDisplayName</key>
 			<string>Privacy Preferences Policy Control #1</string>
 			<key>PayloadIdentifier</key>
@@ -146,7 +146,7 @@ So all in all, our full mobileconfig will look like the following XML:
 
 <details>
 	<summary><b>Full code for KMF OneDrive!</b></summary>
-<code>``` <?xml version="1.0" encoding="UTF-8"?>
+<code>```XML <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
